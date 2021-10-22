@@ -1,7 +1,9 @@
 # Dio Dino Game 
-Dino game for Digital Innovation One Lesson, using only JS, HTML and CSS
+Projeto educacional desenvolvido durante curso da DIO (Digital Innovation One).
+
+O projeto consiste em uma réplica simplificada do famoso "jogo do dinossauro" que aparece no Google Chrome quando não há conexão com a internet.
+Projeto desenvolvido usando apenas HTML5, CSS3, JavaScript.
 
 ![screenshot](example.png?raw=true "screenshot")
 
-# License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
